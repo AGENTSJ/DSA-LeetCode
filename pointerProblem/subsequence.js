@@ -16,4 +16,4 @@ var isSubsequence = function(s, t) {
     }else{
         return false
     }
-};
+};h
